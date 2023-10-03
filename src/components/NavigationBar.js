@@ -7,7 +7,7 @@ const NavigationBar =() =>{
         <nav className="navbar">
             <ul className="nav-links">
                 <li>
-                    <Link to={"/login"}>Login</Link>
+                    <Link to={"/login"}>Login page</Link>
                 </li>
                 <li>
                     <Link to={"/register"}>Register</Link>
