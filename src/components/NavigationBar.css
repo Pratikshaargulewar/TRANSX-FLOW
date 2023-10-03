@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #333;
+    padding: 10px;
+    color: white;
+}
+
+.nav-links{
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+}
+
+.nav-links li {
+    margin: 0;
+}
+
+.nav-links a{
+    text-decoration: none;
+    color: white;
+}
+
+.nav-links a:hover {
+    text-decoration: underline;
+    background: #000;
+}

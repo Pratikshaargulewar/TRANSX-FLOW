@@ -1,0 +1,27 @@
+.home{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.features{
+    display: flex;
+
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.feature {
+    width: 45%;
+    border: 1px solid #b72828;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rbga(0,0,0,0.1);
+}
+
+h1{
+    font-size: large32px;
+}
+
+h2{
+    font-size: 24px;
+}

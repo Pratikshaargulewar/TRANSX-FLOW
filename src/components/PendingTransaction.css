@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Pending-transaction {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 20px;
+  }
+  
+  h2{
+    color: black;
+  }
+  .transaction-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .transaction-description {
+    font-weight: bold;
+  }
+  
+  .transaction-timestamp {
+    color: #888;
+  }
+  
