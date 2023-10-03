@@ -12,7 +12,7 @@ const Login = () =>{
     return (
         <div className="login-container">
             <div className='login-box'>
-            <h2>Login</h2>
+            <h2>LOGIN </h2>
             <form className="login-form">
                 <label htmlFor="email">Email:</label>
                 <input type="email" id="email" value={email} onChange={(e) => setEmail(e.target.value)} placeholder="Enter your email"/>

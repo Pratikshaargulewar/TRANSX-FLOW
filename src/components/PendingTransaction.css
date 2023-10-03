@@ -10,8 +10,9 @@
     margin: 20px;
   }
   
-  h2{
-    color: black;
+  .Pending-transaction h2{
+    color:#007bff;
+    font-size: 30px;
   }
   .transaction-item {
     display: flex;

@@ -17,7 +17,9 @@
     margin: 5px;
     position: absolute;
   }
-  
+  .register-box h2 {
+    color: #007bff;
+  }
   .register-form {
     width: 300px;
     margin: 0 auto;
